@@ -1,0 +1,36 @@
+#r3{
+    background-color: #FF0000;
+}
+
+#g3{
+    background-color: #00FF00;
+}
+
+#b3{
+    background-color: #0000FF;
+}
+th{
+    text-align: initial;
+}
+
+
+td{
+    width: 250px;
+    border: black 2px solid ;
+    
+}
+table  {
+    border: black 5px solid;
+    background-color: aliceblue;    
+}
+body{
+    background-color: salmon;
+    padding-left: 28%;
+}
+h1{
+    color: red;
+}
+p{
+    padding-top: 15%;
+    margin-left;: 5%;
+}
